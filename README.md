@@ -1,2 +1,2 @@
 # Clock
-Day one core clock 
+Day two new practical added 
